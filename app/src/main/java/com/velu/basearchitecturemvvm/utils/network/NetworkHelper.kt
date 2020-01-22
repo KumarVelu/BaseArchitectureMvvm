@@ -1,4 +1,4 @@
-package com.velu.basearchitecturemvvm.utils
+package com.velu.basearchitecturemvvm.utils.network
 
 import android.content.Context
 import com.velu.basearchitecturemvvm.di.ApplicationContext

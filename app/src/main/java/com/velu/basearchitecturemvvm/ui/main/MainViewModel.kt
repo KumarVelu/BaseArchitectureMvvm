@@ -2,9 +2,9 @@ package com.velu.basearchitecturemvvm.ui.main
 
 import androidx.lifecycle.MutableLiveData
 import com.velu.basearchitecturemvvm.ui.base.BaseViewModel
-import com.velu.basearchitecturemvvm.data.local.DatabaseService
+import com.velu.basearchitecturemvvm.data.local.db.DatabaseService
 import com.velu.basearchitecturemvvm.data.remote.NetworkService
-import com.velu.basearchitecturemvvm.utils.NetworkHelper
+import com.velu.basearchitecturemvvm.utils.network.NetworkHelper
 import io.reactivex.disposables.CompositeDisposable
 
 class MainViewModel(

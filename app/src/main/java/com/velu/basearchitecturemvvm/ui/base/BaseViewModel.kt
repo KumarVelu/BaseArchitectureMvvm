@@ -2,7 +2,7 @@ package com.velu.basearchitecturemvvm.ui.base
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.velu.basearchitecturemvvm.utils.NetworkHelper
+import com.velu.basearchitecturemvvm.utils.network.NetworkHelper
 import io.reactivex.disposables.CompositeDisposable
 
 

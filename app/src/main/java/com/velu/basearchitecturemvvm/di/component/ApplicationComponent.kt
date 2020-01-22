@@ -2,11 +2,11 @@ package com.velu.basearchitecturemvvm.di.component
 
 import android.content.Context
 import com.velu.basearchitecturemvvm.MyApplication
-import com.velu.basearchitecturemvvm.data.local.DatabaseService
+import com.velu.basearchitecturemvvm.data.local.db.DatabaseService
 import com.velu.basearchitecturemvvm.data.remote.NetworkService
 import com.velu.basearchitecturemvvm.di.ApplicationContext
 import com.velu.basearchitecturemvvm.di.module.ApplicationModule
-import com.velu.basearchitecturemvvm.utils.NetworkHelper
+import com.velu.basearchitecturemvvm.utils.network.NetworkHelper
 import dagger.Component
 import io.reactivex.disposables.CompositeDisposable
 import javax.inject.Singleton

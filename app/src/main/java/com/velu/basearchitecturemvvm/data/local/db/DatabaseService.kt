@@ -1,4 +1,4 @@
-package com.velu.basearchitecturemvvm.data.local
+package com.velu.basearchitecturemvvm.data.local.db
 
 import android.content.Context
 import com.velu.basearchitecturemvvm.di.ApplicationContext

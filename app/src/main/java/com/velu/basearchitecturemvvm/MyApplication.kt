@@ -2,7 +2,7 @@ package com.velu.basearchitecturemvvm
 
 import android.app.Application
 
-import com.velu.basearchitecturemvvm.data.local.DatabaseService
+import com.velu.basearchitecturemvvm.data.local.db.DatabaseService
 import com.velu.basearchitecturemvvm.data.remote.NetworkService
 import com.velu.basearchitecturemvvm.di.component.ApplicationComponent
 import com.velu.basearchitecturemvvm.di.component.DaggerApplicationComponent
